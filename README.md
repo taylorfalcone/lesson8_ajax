@@ -4,21 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+12/10/2018
 
 ### Student Name:  
-(First and Last Name)
+Taylor Falcone
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This assignment uses ajax to load information about movies as the user enters them in the search bar.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
-4. (Briefly describe a lesson/concept learned in this lesson.)
-5. (Briefly describe a lesson/concept learned in this lesson.)
+1. How to build an application using an API
+2. How to parse JSON data from HTTP response messages
+3. How to use Ajax methods to send HTTP requests and recieve responses.
